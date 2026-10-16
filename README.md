@@ -43,7 +43,7 @@ Currently working on web systems for public administration, with a focus on cont
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Tools & Version Control
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -57,6 +57,16 @@ Currently working on web systems for public administration, with a focus on cont
 - Exploring better approaches to software architecture and maintainability.
 - Creating user-centered applications with a product-oriented mindset.
 - Continuously improving my software engineering skills.
+
+## 📂 Featured Projects
+
+<div align="center">
+
+  🚧 Projects coming soon!
+
+  I'm currently organizing this section. Stay tuned for upcoming projects.
+
+</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0F172A,50:1D4ED8,100:2563EB" alt="Footer" />
