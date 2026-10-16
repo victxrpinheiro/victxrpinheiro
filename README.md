@@ -62,9 +62,6 @@ Currently working on web systems for public administration, with a focus on cont
 
 <div align="center">
 
-  🚧 Projects coming soon!
-
-  I'm currently organizing this section. Stay tuned for upcoming projects.
 
 </div>
 
