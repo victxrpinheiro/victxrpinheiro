@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Developer and Computer Engineering student at Rio de Janeiro State University (UERJ).
+I'm a Developer and Computer Engineering student at Rio de Janeiro State University (UERJ).
 
 I primarily work with Python and Django, building and maintaining web applications across both front-end and back-end. I care about clean code, usability, and creating software that solves real-world problems.
 
